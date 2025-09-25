@@ -24,7 +24,7 @@ Assigned specialization in [[Evocation]] by the bureaucracy of [[The Great Acade
 [[Pryderi ap Rhiannon]]
 [[Gwynt]]
 [[Thibedeaux Ironbayou]]
-[[Petra|Dae'na]]
+[[Petrara Umbriel|Dae'na]]
 
 [[Blip]]?
 [[Threb]]?

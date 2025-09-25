@@ -7,7 +7,7 @@ tall slender cloaked indistinctly
 [[Hawk Clan]]
 
 # Relationships
-[[Petra]]
+[[Petrara Umbriel]]
 [[Pryderi ap Rhiannon]]
 [[Thibedeaux Ironbayou]]
 [[Desclan Tanner]]

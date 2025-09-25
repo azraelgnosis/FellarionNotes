@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2025-09-20.md",
+                "file": "Notes/Possum and Grits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-20"
+              "title": "Possum and Grits"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,16 +181,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b41c28f92d96fb5",
+  "active": "fe8aa864e1cdfb8e",
   "lastOpenFiles": [
+    "Notes/Characters/Eurydice.md",
     "Sessions/2025-09-06.md",
+    "Notes/Characters/Petrara Umbriel.md",
+    "Notes/Possum and Grits.md",
     "Sessions/2025-09-20.md",
+    "Notes/Enfys.md",
     "Sessions/2025-08-23.md",
     "Notes/Characters/Balin ferch Balin.md",
     "Notes/Characters/Pryderi ap Rhiannon.md",
     "Notes/Characters/I have a name for him but I can't remember this second.md",
     "Notes/Organizations/Whale Clan.md",
-    "Notes/Characters/Hades.md",
     "Attachments/Screenshot_20250829-202101.png",
     "Notes/Characters/Omi.md",
     "Attachments/Screen_Shot_2025-09-20_at_4.44.30_PM.png",
@@ -207,13 +209,10 @@
     "Notes/Characters/Nathamuel.md",
     "Notes/Characters/Trajedie.md",
     "Notes/Characters/Sir Trent.md",
-    "Notes/Possum and Grits.md",
     "Notes/Pizza.md",
     "Notes/Locations/Daear/Fellarion/Teyrnas/Yr Ogledd/Yr Ogledd.md",
     "Notes/Locations/Daear/Fellarion/Teyrnas/Yr Ddwyrain.md",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Yr Dde/Yr Orllewin.md",
     "Notes/Locations/Daear/Fellarion/Teyrnas/Yr Dde",
-    "Notes/Characters/Taliesen.md",
     "Notes/Mechanics/Spells",
     "Attachments/Finger Twins.png",
     "Notes/Mechanics/Actions",
