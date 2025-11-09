@@ -2,7 +2,6 @@
 ancestry: Elf
 heritage: Cave Elf
 aliases:
-  - Hades
 ---
 
 Introduced as "Hades"

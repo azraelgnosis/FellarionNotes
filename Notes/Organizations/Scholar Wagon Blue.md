@@ -9,3 +9,5 @@
 # Gallery
 
 ![[Wagon2Group.webp]]
+
+# Tags

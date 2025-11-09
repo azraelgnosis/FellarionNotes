@@ -7,3 +7,5 @@
 
 # Gallery
 ![[PrinceWagon.webp]]
+
+# Tags

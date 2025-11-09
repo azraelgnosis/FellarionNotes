@@ -12,7 +12,7 @@ Princess of [[Whale Clan]]
 
 # Relationships
 [[Balin]], mother
-[[I have a name for him but I can't remember this second]], father
+[[Whale Clan King]], father
 [[Cefn ap Balin]], brother
 
 # Gallery

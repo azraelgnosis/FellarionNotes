@@ -14,5 +14,6 @@ From the [[Cat Clan]] in [[Yr Ddwyrain]]
 # Gallery
 ![[Palug minus hood.png]]
 
+![[Cavern_Elf_Look_Palug.png]]
 # Tags
 #character #NPC 

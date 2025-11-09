@@ -8,5 +8,8 @@ From [[Byd Arall]]
 # Relationships
 [[Gwynt]]
 
+# Gallery
+![[Merifet.png]]
+
 # Tags
 #character #NPC 

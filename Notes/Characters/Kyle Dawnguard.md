@@ -7,6 +7,7 @@ Sir Kyle
 Arguably, some sort of Knight
 [[Human]]
 [[Prince Wagon]]
+Has hair transplants? Or maybe just hair dye?
 # Relationships
 [[Sir Trent]], friend, lover?
 

@@ -1,12 +1,14 @@
 ---
 ancestry: Orc
+aliases:
+  - Prince Cefn
 ---
 [[Orc]]
 [[Prince Wagon]]
 Prince of [[Whale Clan]]
 
 # Relationships
-[[I have a name for him but I can't remember this second]], father
+[[Whale Clan King]], father
 [[Balin]], mother
 [[Balin ferch Balin]], sister
 
