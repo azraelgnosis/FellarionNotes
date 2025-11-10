@@ -1,14 +1,9 @@
 ---
 aliases:
-  - Princess Artemis
+  - Queen Leto
 ancestry: Elf
 heritage: Cave Elf
 ---
-
-# Relationships
-[[Orion]], spouse
-
-# Gallery
 
 # Tags
 #character #NPC 

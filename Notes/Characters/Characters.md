@@ -2,5 +2,5 @@
 # Dataview
 ```dataview
 TABLE ancestry, heritage, class
-from "Characters"
+from "Notes/Characters"
 ```

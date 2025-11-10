@@ -18,6 +18,7 @@ More /dai/ than /dae/
 [[Demeter]], aunt
 [[Melinoe]], nibling
 [[Dionysus]], nibling
+, Mother
 
 # Tags
 #character #PC 

@@ -10,5 +10,5 @@
 # Dataview
 ```dataview
 table 
-from "Mechanics/Classes"
+from "Notes/Mechanics/Classes"
 ```

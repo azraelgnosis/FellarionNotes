@@ -13,6 +13,7 @@ Has hair transplants? Or maybe just hair dye?
 
 # Gallery
 ![[Kyle_Dawnguard.webp]]
+![[PrinceWagon.webp]]
 
 # Tags
 #character #NPC 

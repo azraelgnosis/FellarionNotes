@@ -1,4 +1,10 @@
+---
+aliases:
+  - Grass
+---
+
 Not TwoBladesOfGrassScrapingTogether!!!
+Also, Note [[SharpCracklingGlass]]!!!!!
 
 [[Familiar Folk|Famfolk]]
 

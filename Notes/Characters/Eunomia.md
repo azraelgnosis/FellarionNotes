@@ -1,14 +1,10 @@
 ---
-aliases:
-  - Princess Artemis
 ancestry: Elf
 heritage: Cave Elf
 ---
-
-# Relationships
-[[Orion]], spouse
-
+Guard captain in [[Dynasdywyll]]
 # Gallery
+![[Head_Guard_Eunomia.png]]
 
 # Tags
 #character #NPC 
