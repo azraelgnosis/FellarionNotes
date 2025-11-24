@@ -8,5 +8,9 @@ Sir Javert
 
 Knight
 
+# Gallery
+![[PrincessWagon.webp]]
+
+
 # Tags
 #character #NPC 

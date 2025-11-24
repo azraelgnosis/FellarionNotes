@@ -9,6 +9,8 @@ heritage: Cave Elf
 Prince of Cave Elves
 
 # Relationships
+[[Leto|Queen Leto]], mother
+[[Artemis|Princess Artemis]], sister
 [[Perses]], Man-in-Waiting
 
 # Gallery

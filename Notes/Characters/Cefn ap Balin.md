@@ -2,11 +2,12 @@
 ancestry: Orc
 aliases:
   - Prince Cefn
+class: Magus
 ---
 [[Orc]]
 [[Prince Wagon]]
 Prince of [[Whale Clan]]
-
+[[Magus]]
 # Relationships
 [[Whale Clan King]], father
 [[Balin]], mother

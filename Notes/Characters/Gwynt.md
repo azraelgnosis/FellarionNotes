@@ -13,7 +13,7 @@ tall slender cloaked indistinctly
 [[Desclan Tanner]]
 
 [[Natalie]]
-[[Gwynt's Old Friend]]
+[[Merifet]]
 
 # Tags
 #character #PC 

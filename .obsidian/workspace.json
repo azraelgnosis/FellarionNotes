@@ -8,6 +8,50 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9650214fe5c244e2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025-11-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2025-11-23"
+            }
+          },
+          {
+            "id": "e683aa90a83bbaf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Characters/Taliesen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taliesen"
+            }
+          },
+          {
+            "id": "d48c4a8919bec61f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Characters/Hermes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hermes"
+            }
+          },
+          {
             "id": "0ff2e16a22e6a116",
             "type": "leaf",
             "pinned": true,
@@ -24,17 +68,31 @@
             }
           },
           {
-            "id": "c4e6c006ae8f2d10",
+            "id": "9c96ae80d4601a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Locations/Daear/Fellarion/Dynasdywyll.md",
+                "file": "Sessions/2025-10-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dynasdywyll"
+              "title": "2025-10-05"
+            }
+          },
+          {
+            "id": "eb558b336615eaa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2025-10-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-25"
             }
           },
           {
@@ -50,21 +108,20 @@
             }
           },
           {
-            "id": "8bc616471fe9868b",
+            "id": "a95412b506c3a1d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/Taliesen.md",
+                "file": "Notes/Characters/Hyacinthus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taliesen"
+              "title": "Hyacinthus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Talie",
+                "query": "taliesen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,11 +174,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d25230aabca89350",
@@ -210,43 +268,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4e6c006ae8f2d10",
+  "active": "9650214fe5c244e2",
   "lastOpenFiles": [
-    "Notes/Characters/Taliesen.md",
-    "Attachments/Dr._Zephyr_a_Taliesin.png",
     "Notes/Characters/Hyacinthus.md",
-    "Attachments/Dr.Zephyr_ac_Hyacinthus.png",
+    "Notes/Characters/Taliesen.md",
+    "Attachments/Hyacinthus_and_Taliesin.png",
+    "Notes/Characters/Apollo.md",
+    "Notes/Characters/Hermes.md",
+    "Attachments/Taliesin_and_Hermes.png",
     "Sessions/2025-11-09.md",
-    "Notes/Locations/Daear/Fellarion/Dynasdywyll.md",
-    "Notes/Characters/Ganymede.md",
-    "Notes/Characters/Eunomia.md",
+    "Attachments/Hermes_and_Hyacinthus.png",
+    "Sessions/2025-11-23.md",
     "Notes/Characters/Zephyr.md",
-    "Attachments/Head_Guard_Eunomia.png",
-    "Notes/Characters/AnnieLashawn.md",
-    "Notes/Characters/Characters.md",
-    "Notes/Mechanics/Classes/Classes.md",
-    "Notes/Mechanics/Spells/Spells.md",
-    "Notes/Mechanics/Ancestries/Ancestries.md",
-    "Notes/Enfys.md",
-    "Notes/Locations/Byd Arall.md",
-    "Notes/Organizations/Furies.md",
-    "Notes/Characters/Tisiphone.md",
-    "Notes/Locations/Daear/Daear.md",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Yr Ogledd/Yr Ogledd.md",
-    "Notes/Locations/Daear/Fellarion/Fellarion.md",
-    "Notes/Locations/Mawrth/Mawrth.md",
-    "Notes/Characters/Hypnos.md",
-    "Notes/Characters/Roderick.md",
-    "Attachments/Young_Roderick-1.png",
-    "Notes/Characters/Trajedie.md",
-    "Attachments/Young_Trajedie_and_Roderick-1.png",
-    "Attachments/Young_Trajedie_and_AnnieLeshawn-1.png",
+    "Attachments/Dr._Zephyr.png",
+    "Notes/Characters/Cefn ap Balin.md",
+    "Notes/Characters/Claudia.md",
+    "Notes/Characters/Leto.md",
+    "Notes/Characters/Pryderi ap Rhiannon.md",
     "Notes/Characters/Artemis.md",
-    "Notes/Smeurkey.md",
-    "Attachments/Dynasdywyll.png",
-    "Attachments/Prince_Apollo.png",
-    "Attachments/Men_in_waiting_Perses.png",
-    "Attachments/Cavern_Elf_Look_Two_Grass_Blades_Scraping.png",
+    "Notes/Characters/Rhedynfr.md",
+    "Notes/Characters/Mabrians Father.md",
+    "Attachments/Mabrians_Father.png",
+    "Notes/Characters/Cath ferch Cath.md",
+    "Attachments/Cath_ferch_cath.png",
+    "Attachments/Mabrian_and_Taliesen_Boar_Hunt.png",
+    "Notes/Characters/Omi.md",
+    "Notes/Characters/Perses.md",
+    "Notes/Characters/Pepperoni.md",
+    "Notes/Characters/Blibadoo.md",
+    "Sessions/2025-10-05.md",
+    "Attachments/QueenLeto.png",
+    "Notes/Characters/Eurydice.md",
+    "Notes/Characters/King Wren.md",
+    "Notes/Mechanics/Spells/Spells.md",
+    "Notes/Enfys.md",
+    "Sessions/2025-10-25.md",
+    "Notes/Characters/SharpCracklingGlass.md",
+    "Attachments/PrincessArtemisandconsortOrion.png",
+    "Attachments/Gwydion_and_Brother.png",
     "Templates",
     "Notes/Mechanics/Spells/Sleep",
     "Notes/Locations/Daear/Fellarion/Teyrnas/Yr Dde",

@@ -1,3 +1,4 @@
+Exonym: Mawrthiad
 
 Planet
 perished tragically
@@ -7,3 +8,4 @@ perished tragically
 
 # Footnotes
 https://cy.wikipedia.org/wiki/Mawrth_(planed)
+https://en.wiktionary.org/wiki/Mawrth

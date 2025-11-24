@@ -5,5 +5,16 @@ ancestry: Elf
 heritage: Cave Elf
 ---
 
+[[Elf]]
+[[Cave Elf]]
+
+# Relationships
+[[Apollo|Prince Apollo]], Son
+[[Artemis|Princess Artemis]], Daughter
+
+# Gallery
+![[QueenLeto.png]]
+
+
 # Tags
 #character #NPC 
