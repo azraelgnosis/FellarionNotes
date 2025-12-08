@@ -5,7 +5,7 @@ class: Wizard
 
 \[ˈpa.lɪg]
 
-[[Orc]]
+[[Orc]] [[Wizard]]
 [[Scholar Wagon Blue]]
 First Orc wizard?!
 

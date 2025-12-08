@@ -5,6 +5,7 @@ ancestry: Elf
 heritage: Cave Elf
 class: Ranger
 ---
+[[Ranger]]
 
 # Relationships
 [[Orion]], spouse

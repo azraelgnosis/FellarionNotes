@@ -5,6 +5,7 @@ class: Wizard
 aliases:
   - Desclan
 ---
+[[Human]] [[Wizard]]
 
 Old
 of [[The Great Academy]] in the capital

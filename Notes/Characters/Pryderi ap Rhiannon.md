@@ -4,6 +4,7 @@ ancestry: Orc
 heritage: Battle Ready
 aliases:
   - Mabrian
+  - Pryderi
 ---
 Pryderi ap Rhiannon , called Mabrian
 20
