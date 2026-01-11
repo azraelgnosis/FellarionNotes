@@ -2,6 +2,7 @@
 One of [[Nathamuel]]'s students
 
 # Relationships
+[[AnnieLashawn]], engaged
 [[Nathamuel]]
 [[Roderick]]?
 

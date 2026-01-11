@@ -1,2 +1,4 @@
 
-Dialect? of Elvish???
+Dialect? of [[Elvish]]???
+
+[[Cave Elf]]

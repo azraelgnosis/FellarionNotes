@@ -3,7 +3,7 @@ ancestry: Orc
 ---
 
 
-[[Finger Twin]]
+[[Finger Twins]]
 [[Owl Clan]]
 asshole
 # Relationships

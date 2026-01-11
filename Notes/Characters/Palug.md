@@ -9,7 +9,7 @@ class: Wizard
 [[Scholar Wagon Blue]]
 First Orc wizard?!
 
-From the [[Cat Clan]] in [[Yr Ddwyrain]]
+From the [[Cath Clan]] in [[Y Ddwyrain]]
 
 # Gallery
 ![[Palug minus hood.png]]

@@ -10,7 +10,7 @@ Fighter? Barbarian?
 [[Trader Wagon]]
 
 # Gallery
-
+![[HalflingWagon.png]]
 
 # Tags
 #character #NPC 

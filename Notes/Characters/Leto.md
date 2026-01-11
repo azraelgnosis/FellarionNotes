@@ -5,6 +5,8 @@ ancestry: Elf
 heritage: Cave Elf
 ---
 
+/liˈto/
+
 [[Elf]]
 [[Cave Elf]]
 

@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "25e3a36ebd282281",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2026-01-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-01-10"
+            }
+          },
+          {
             "id": "671c6c58f1241268",
             "type": "leaf",
             "pinned": true,
@@ -24,22 +40,6 @@
             }
           },
           {
-            "id": "9650214fe5c244e2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2025-11-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-11-23"
-            }
-          },
-          {
             "id": "d5faa4beaa6c543e",
             "type": "leaf",
             "pinned": true,
@@ -52,20 +52,35 @@
             }
           },
           {
-            "id": "7d039f73e6ba1272",
+            "id": "1163196484ffddf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2025-10-05.md",
+                "file": "Notes/Enfys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-05"
+              "title": "Enfys"
+            }
+          },
+          {
+            "id": "f8429365c62af389",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Locations/Daear/Fellarion/Dynasdywyll/Dynasdywyll Temple.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynasdywyll Temple"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heal",
+                "query": "blue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 319.51103591918945
   },
   "right": {
     "id": "d25230aabca89350",
@@ -212,53 +227,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "671c6c58f1241268",
+  "active": "844659738a2b8465",
   "lastOpenFiles": [
-    "Sessions/2025-10-05.md",
-    "Notes/Characters/Palug.md",
-    "Sessions/2025-11-23.md",
-    "Notes/Characters/Desclan Tanner.md",
-    "Notes/Characters/Artemis.md",
-    "Notes/Opossum and Grits.md",
+    "Notes/Locations/Daear/Fellarion/Teyrnas/Teyrnas.md",
+    "Notes/Locations/Daear/Fellarion/Dynasdywyll/Dynasdywyll Temple.md",
+    "Notes/Characters/Thalia P.md",
     "Sessions/2025-12-07.md",
-    "Notes/Characters/Pryderi ap Rhiannon.md",
-    "Sessions/2025-10-25.md",
-    "Notes/Characters/Hyacinthus.md",
-    "Notes/Characters/Taliesen.md",
-    "Attachments/Hyacinthus_and_Taliesin.png",
-    "Notes/Characters/Apollo.md",
-    "Notes/Characters/Hermes.md",
-    "Attachments/Taliesin_and_Hermes.png",
-    "Sessions/2025-11-09.md",
-    "Attachments/Hermes_and_Hyacinthus.png",
-    "Notes/Characters/Zephyr.md",
-    "Attachments/Dr._Zephyr.png",
-    "Notes/Characters/Cefn ap Balin.md",
-    "Notes/Characters/Claudia.md",
-    "Notes/Characters/Leto.md",
-    "Notes/Characters/Rhedynfr.md",
-    "Notes/Characters/Mabrians Father.md",
-    "Attachments/Mabrians_Father.png",
+    "Notes/Characters/Polyhymnia E.md",
+    "Notes/Locations/Daear/Fellarion/Dynasdywyll/Dynasdywyll.md",
+    "Notes/Locations/Daear/Fellarion/Dynasdywyll",
+    "Notes/Organizations/Cath Clan.md",
+    "Notes/Cavern Elvish.md",
+    "Notes/Characters/Untitled.md",
+    "Notes/Characters/Cwm.md",
+    "Notes/Characters/Cawlwyd.md",
     "Notes/Characters/Cath ferch Cath.md",
-    "Attachments/Cath_ferch_cath.png",
-    "Attachments/Mabrian_and_Taliesen_Boar_Hunt.png",
-    "Notes/Characters/Omi.md",
-    "Notes/Characters/Perses.md",
-    "Notes/Characters/Pepperoni.md",
-    "Notes/Characters/Blibadoo.md",
-    "Attachments/QueenLeto.png",
+    "Notes/Characters/Desclan Tanner.md",
+    "Sessions/2025-10-05.md",
+    "Sessions/2025-08-23.md",
+    "Notes/Characters/Palug.md",
+    "Notes/Locations/Daear/Fellarion/Teyrnas/Yr Orllewin.md",
+    "Notes/Locations/Daear/Fellarion/Teyrnas/Y Dde/Y Dde.md",
+    "Notes/Locations/Daear/Fellarion/Teyrnas/Y Ddwyrain.md",
+    "Notes/Locations/Daear/Daear.md",
+    "Notes/Characters/Hypnos.md",
     "Notes/Characters/Eurydice.md",
-    "Attachments/PrincessArtemisandconsortOrion.png",
-    "Attachments/Gwydion_and_Brother.png",
+    "Notes/Characters/Stag Matriarch.md",
+    "Notes/Characters/Elhenry.md",
+    "Notes/Characters/Elspeth.md",
+    "Notes/Characters/Alrick.md",
+    "Attachments/Screenshot_2026-01-10_at_21.57.36.png",
+    "Attachments/Screenshot_20251220-214822.png",
+    "Attachments/Screenshot_20251224-183841.png",
+    "Attachments/Polyhymnia_E_and_Thalia_P_Cleric_Twins.png",
+    "Attachments/Hyacinthus_and_Taliesin.png",
+    "Attachments/Taliesin_and_Hermes.png",
+    "Attachments/Hermes_and_Hyacinthus.png",
+    "Attachments/Dr._Zephyr.png",
+    "Attachments/Mabrians_Father.png",
+    "Attachments/Cath_ferch_cath.png",
     "Templates",
     "Notes/Mechanics/Spells/Sleep",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Yr Dde",
+    "Notes/Locations/Daear/Fellarion/Teyrnas/Y Dde",
     "Notes/Mechanics/Spells",
     "Notes/Mechanics/Actions",
     "Notes/Mechanics/Equipment",
     "Notes/Mechanics/Creatures",
     "Notes",
-    "Notes/Organizations",
-    "Sessions"
+    "Notes/Organizations"
   ]
 }

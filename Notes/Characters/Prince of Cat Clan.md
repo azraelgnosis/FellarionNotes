@@ -1,4 +1,4 @@
-[[Cat Clan]]
+[[Cath Clan]]
 
 # Tags
 #character #NPC 

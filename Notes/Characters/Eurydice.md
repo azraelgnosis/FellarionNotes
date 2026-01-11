@@ -3,6 +3,7 @@ ancestry: Elf
 heritage: Cave Elf
 aliases:
 ---
+[[Cave Elf|Cave]] [[Elf]]
 
 Introduced as "Hades"
 Family in charge of cemeteries, the keepers of the dead
