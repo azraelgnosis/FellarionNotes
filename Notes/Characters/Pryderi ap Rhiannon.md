@@ -24,6 +24,9 @@ Mabrian /mabˈri.an/
 
 ![[Screenshot_20250724-231250.png]]
 ![[Mabrian_and_Taliesen_Boar_Hunt.png]]
+
+![[Engagement_Party_Fit.png]]
+
 # References
 https://en.wikipedia.org/wiki/Pryderi
 https://en.wikipedia.org/wiki/Rhiannon

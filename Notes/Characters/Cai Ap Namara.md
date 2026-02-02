@@ -1,8 +1,10 @@
 ---
 ancestry: Orc
+class: Barbarian
 ---
 
 [[Orc]]
+[[Barbarian]]
 [[Seal Clan]]
 [[Seal Team Silver Wagon]]
 

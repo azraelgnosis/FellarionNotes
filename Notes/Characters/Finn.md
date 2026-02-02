@@ -1,6 +1,7 @@
 ---
 ancestry: Human
 ---
+
 [[Human]]
 
 [[Scholar Wagon Blue]]

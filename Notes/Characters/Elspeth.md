@@ -1,7 +1,13 @@
+---
+ancestry: Human
+---
+
+
+[[Human]]
 Princess
 
 # Relationships
-[[Elhenry]], Father
+[[Elhenry|King Elhenry]], Father
 , Mother
 [[Alrick]], brother
 [[Elrick]], brother

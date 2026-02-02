@@ -2,7 +2,7 @@
 ancestry: Human
 class: Wizard
 ---
-
+[[Human]] [[Wizard]]
 
 Born "Annette Beth"
 One of [[Nathamuel]]'s students

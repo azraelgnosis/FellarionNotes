@@ -8,7 +8,7 @@
 Cleric of the [[Emerald]]
 Works at [[Dynasdywyll Temple]]
 # Relationships
-[[Thalia P]]
+[[Thalia P]], twin sister
 
 # Gallery
 ![[Polyhymnia_E_and_Thalia_P_Cleric_Twins.png]]

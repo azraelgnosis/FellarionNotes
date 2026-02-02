@@ -1,10 +1,10 @@
 ---
 ancestry: Human
-heritage: 
 class: Wizard
 aliases:
   - Desclan
 ---
+
 [[Human]] [[Wizard]]
 
 Old

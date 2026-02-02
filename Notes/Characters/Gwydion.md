@@ -3,8 +3,9 @@ ancestry: Elf
 heritage: Sea Elf
 ---
 
+[[Sea Elf|Sea]] [[Elf]]
 # Relationships
-[[Sea Elf Scamp Rapscallion Vagabond Urchin]]
+[[Gilfaethwy]], older sibling
 
 # Gallery
 ![[Gwydion_and_Brother.png]]

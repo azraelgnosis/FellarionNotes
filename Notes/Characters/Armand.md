@@ -1,3 +1,11 @@
+---
+ancestry: Dwarf
+heritage:
+aliases:
+  - King Armand
+---
+[[Dwarf]]
+
 King of Dwarves
 
 # Relationships

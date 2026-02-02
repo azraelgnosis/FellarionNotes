@@ -4,6 +4,7 @@ aliases:
   - Prince Cefn
 class: Magus
 ---
+
 [[Orc]]
 [[Prince Wagon]]
 Prince of [[Whale Clan]]

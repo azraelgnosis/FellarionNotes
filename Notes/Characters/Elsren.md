@@ -1,11 +1,14 @@
 ---
 ancestry: Human
 ---
-
+[[Human]]
 Magister
 
 # Relationships
-[[Elhenry]], brother
+[[Elhenry|King Elhenry]], brother
+[[Elspeth]], niece
+[[Elrick]], nephew
+[[Alrick]], nephew
 
 # Gallery
 ![[AllamorithDennaes.webp]]

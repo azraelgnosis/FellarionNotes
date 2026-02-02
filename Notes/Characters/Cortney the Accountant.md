@@ -3,6 +3,8 @@ aliases:
   - Cortney
 ancestry: Halfling
 ---
+
+[[Halfling]]
 Fighter? Barbarian?
 
 "Holds things accountable"

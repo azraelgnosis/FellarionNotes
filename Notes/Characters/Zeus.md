@@ -5,10 +5,12 @@ ancestry: Elf
 heritage: Cave Elf
 ---
 
+[[Cave Elf|Cave]] [[Elf]]
+
 # Relationships
 [[Demeter]], spouse
 [[Petrara Umbriel|Petrara]], niece
-[[Hades]]
+[[Hades Umbriel]]
 [[Melinoe]], secret grandchild
 [[Dionysus]], secret grandchild
 

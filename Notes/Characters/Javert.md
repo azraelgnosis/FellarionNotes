@@ -4,6 +4,7 @@ aliases:
 ancestry: Dwarf
 ---
 
+[[Dwarf]]
 Sir Javert
 
 Knight

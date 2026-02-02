@@ -6,9 +6,10 @@ class: Cleric
 Issa \[ˈi.sə]
 
 # 
-[[Halfling]]
+[[Gutsy Halfling|Gutsy]] [[Halfling]]
 [[Warpriest]] [[Cleric]]
 3'5"
+[[Enfys]]
 
 # Tags
 #character #PC 

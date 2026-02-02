@@ -3,9 +3,10 @@ ancestry: Elf
 heritage: Cave Elf
 ---
 
+[[Cave Elf|Cave]] [[Elf]]
 # Relationships
 [[Dionysus]], sibling
-[[Hades]], father
+[[Hades Umbriel]], father
 [[Persephone]], mother
 [[Petrara Umbriel|Petrara]], aunt
 [[Demeter]], grandmother

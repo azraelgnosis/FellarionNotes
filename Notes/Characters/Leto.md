@@ -7,8 +7,8 @@ heritage: Cave Elf
 
 /liˈto/
 
-[[Elf]]
-[[Cave Elf]]
+[[Cave Elf|Cave]] [[Elf]]
+
 
 # Relationships
 [[Apollo|Prince Apollo]], Son
@@ -16,7 +16,7 @@ heritage: Cave Elf
 
 # Gallery
 ![[QueenLeto.png]]
-
+![[Engaged_Queen_Leto.png]]
 
 # Tags
 #character #NPC 

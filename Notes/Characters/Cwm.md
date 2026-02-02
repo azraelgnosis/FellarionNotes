@@ -2,6 +2,7 @@
 ancestry: Orc
 ---
 
+[[Orc]]
 
 [[Finger Twins]]
 [[Owl Clan]]

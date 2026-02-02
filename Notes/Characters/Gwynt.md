@@ -2,7 +2,8 @@
 class: Animist
 ancestry: Orc
 ---
-
+[[Orc]]
+[[Animist]]
 tall slender cloaked indistinctly
 [[Hawk Clan]]
 
@@ -14,6 +15,9 @@ tall slender cloaked indistinctly
 
 [[Natalie]]
 [[Merifet]]
+
+# Gallery
+![[Screenshot_20260201-183206.png]]
 
 # Tags
 #character #PC 

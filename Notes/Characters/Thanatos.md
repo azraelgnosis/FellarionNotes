@@ -2,7 +2,7 @@
 ancestry: Elf
 heritage: Cave Elf
 ---
-
+[[Cave Elf|Cave]] [[Elf]]
 
 Works at Cave Elf Fighting Pits / Brothel
 

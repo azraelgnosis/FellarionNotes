@@ -11,5 +11,6 @@ From [[Byd Arall]]
 # Gallery
 ![[Merifet.png]]
 
+![[Cavern_Elf_Look_Merifet.png]]
 # Tags
 #character #NPC 

@@ -3,10 +3,12 @@ ancestry: Elf
 heritage: Cave Elf
 ---
 
+[[Cave Elf|Cave]] [[Elf]]
+
 # Relationships
 [[Petrara Umbriel|Petrara]], aunt
 [[Melinoe]], sibling
-[[Hades]], father
+[[Hades Umbriel]], father
 [[Demeter]], grandmother
 [[Zeus]], grandfather
 [[Persephone]], mother

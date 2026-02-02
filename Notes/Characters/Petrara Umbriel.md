@@ -13,12 +13,13 @@ More /dai/ than /dae/
 
 # Relationships
 [[Gwynt]]
-[[Persephone]], sister
+[[Persephone]], cousin
 [[Zeus]], uncle
 [[Demeter]], aunt
 [[Melinoe]], nibling
 [[Dionysus]], nibling
-, Mother
+[[Maia]], Mother
+[[Pleione]], sister
 
 # Tags
 #character #PC 

@@ -1,3 +1,7 @@
+---
+ancestry: Orc
+---
+[[Orc]]
 
 Current head of [[Cath Clan]]
 Some [[Hobgoblin]] lineage

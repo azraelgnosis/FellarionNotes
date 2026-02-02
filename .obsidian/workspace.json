@@ -8,35 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25e3a36ebd282281",
+            "id": "fa348f4db0d65a31",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-01-10.md",
+                "file": "Sessions/2026-02-01.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-01-10"
+              "title": "2026-02-01"
             }
           },
           {
-            "id": "671c6c58f1241268",
+            "id": "6479a79230f9fcde",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2025-12-07.md",
+                "file": "Notes/Organizations/Crystal Gems.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "2025-12-07"
+              "title": "Crystal Gems"
             }
           },
           {
@@ -52,35 +50,20 @@
             }
           },
           {
-            "id": "1163196484ffddf5",
+            "id": "e1b3da6c3ceb6120",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Enfys.md",
+                "file": "Notes/Characters/Eurydice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enfys"
-            }
-          },
-          {
-            "id": "f8429365c62af389",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Locations/Daear/Fellarion/Dynasdywyll/Dynasdywyll Temple.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dynasdywyll Temple"
+              "title": "Eurydice"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blue",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,8 +116,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,53 +209,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "844659738a2b8465",
+  "active": "fa348f4db0d65a31",
   "lastOpenFiles": [
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Teyrnas.md",
-    "Notes/Locations/Daear/Fellarion/Dynasdywyll/Dynasdywyll Temple.md",
-    "Notes/Characters/Thalia P.md",
-    "Sessions/2025-12-07.md",
-    "Notes/Characters/Polyhymnia E.md",
-    "Notes/Locations/Daear/Fellarion/Dynasdywyll/Dynasdywyll.md",
-    "Notes/Locations/Daear/Fellarion/Dynasdywyll",
+    "Notes/Organizations/Caravan/Caravan.md",
+    "Notes/Organizations/Caravan/Trader Wagon.md",
+    "Notes/Organizations/Caravan/Seal Team Silver Wagon.md",
+    "Sessions/2026-02-01.md",
+    "Notes/Organizations/Caravan/Scholar Wagon Blue.md",
+    "Sessions/2025-11-23.md",
+    "Notes/Organizations/Caravan/Princess Wagon.md",
+    "Notes/Organizations/Caravan/Prince Wagon.md",
+    "Notes/Organizations/Caravan/Order of the Stones Wagon.md",
+    "Notes/Organizations/Caravan/Apollo Royal Bodyguards Wagon.md",
+    "Notes/Organizations/Caravan/Prince Apollo Wagon.md",
+    "Notes/Organizations/Crystal Gems.md",
+    "Notes/Characters/Balin ferch Balin.md",
+    "Notes/Organizations/Caravan",
     "Notes/Organizations/Cath Clan.md",
-    "Notes/Cavern Elvish.md",
-    "Notes/Characters/Untitled.md",
-    "Notes/Characters/Cwm.md",
-    "Notes/Characters/Cawlwyd.md",
-    "Notes/Characters/Cath ferch Cath.md",
-    "Notes/Characters/Desclan Tanner.md",
-    "Sessions/2025-10-05.md",
-    "Sessions/2025-08-23.md",
-    "Notes/Characters/Palug.md",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Yr Orllewin.md",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Y Dde/Y Dde.md",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Y Ddwyrain.md",
-    "Notes/Locations/Daear/Daear.md",
-    "Notes/Characters/Hypnos.md",
+    "Notes/Characters/Zephyr.md",
+    "Notes/Characters/Characters.md",
     "Notes/Characters/Eurydice.md",
-    "Notes/Characters/Stag Matriarch.md",
-    "Notes/Characters/Elhenry.md",
-    "Notes/Characters/Elspeth.md",
-    "Notes/Characters/Alrick.md",
-    "Attachments/Screenshot_2026-01-10_at_21.57.36.png",
-    "Attachments/Screenshot_20251220-214822.png",
-    "Attachments/Screenshot_20251224-183841.png",
-    "Attachments/Polyhymnia_E_and_Thalia_P_Cleric_Twins.png",
-    "Attachments/Hyacinthus_and_Taliesin.png",
-    "Attachments/Taliesin_and_Hermes.png",
-    "Attachments/Hermes_and_Hyacinthus.png",
-    "Attachments/Dr._Zephyr.png",
-    "Attachments/Mabrians_Father.png",
-    "Attachments/Cath_ferch_cath.png",
+    "Attachments/S10Rec.png",
+    "Notes/Characters/Orpheus.md",
+    "Attachments/S09Rec.png",
+    "Notes/Characters/Hades.md",
+    "Notes/Characters/Cai Ap Namara.md",
+    "Notes/Characters/Hades Umbriel.md",
+    "Notes/Characters/Zeus.md",
+    "Notes/Characters/Melinoe.md",
+    "Notes/Characters/Petrara Umbriel.md",
+    "Notes/Characters/Maia.md",
+    "Notes/Characters/Pleione.md",
+    "Attachments/Engaged_Dr_Zephyr.png",
+    "Attachments/Engaged_Dr._Zephyr_Closeup.png",
+    "Attachments/ClericCaravan.png",
+    "Attachments/Engaged_Dike_Deipneus_Neaera.png",
+    "Attachments/Engaged_Athena_Chloris.png",
+    "Attachments/Engaged_Cyllene.png",
+    "Attachments/Calliope_and_Oiagros.png",
+    "Attachments/CaveelfGuards_Caravan.png",
+    "Notes/Characters/Untitled",
+    "Notes/Locations/Daear/Fellarion/Dynasdywyll",
     "Templates",
     "Notes/Mechanics/Spells/Sleep",
     "Notes/Locations/Daear/Fellarion/Teyrnas/Y Dde",
     "Notes/Mechanics/Spells",
     "Notes/Mechanics/Actions",
     "Notes/Mechanics/Equipment",
-    "Notes/Mechanics/Creatures",
-    "Notes",
-    "Notes/Organizations"
+    "Notes/Mechanics/Creatures"
   ]
 }

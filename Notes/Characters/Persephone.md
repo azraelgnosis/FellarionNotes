@@ -1,6 +1,11 @@
+---
+ancestry: Elf
+heritage: Cave Elf
+---
 
+[[Cave Elf|Cave]] [[Elf]]
 # Relationships
-[[Hades]], partner
+[[Hades Umbriel]], partner
 [[Petrara Umbriel|Petrara]], sister
 [[Demeter]], mother
 [[Zeus]], father

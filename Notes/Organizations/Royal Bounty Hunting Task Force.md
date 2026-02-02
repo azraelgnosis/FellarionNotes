@@ -1,6 +1,6 @@
 
 [[Cave Elf]]
-Color-coordinated
+Color-coordinated for your convenience
 # Gallery
 ![[SPOILER_RoyalBountyHuntingTaskForce.png]]
 

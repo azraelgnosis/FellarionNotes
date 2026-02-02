@@ -1,4 +1,11 @@
-Human King
+---
+aliases:
+  - King Elhenry
+ancestry: Human
+---
+
+
+[[Human]] King
 
 
 # Relationships
