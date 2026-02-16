@@ -8,6 +8,36 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6a8508449fad0944",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2026-02-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-02-15"
+            }
+          },
+          {
+            "id": "abda3cac078130aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Cattholicism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cattholicism"
+            }
+          },
+          {
             "id": "fa348f4db0d65a31",
             "type": "leaf",
             "pinned": true,
@@ -24,17 +54,17 @@
             }
           },
           {
-            "id": "6479a79230f9fcde",
+            "id": "036382bb2fdbcdca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Organizations/Crystal Gems.md",
+                "file": "Notes/Characters/Maia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crystal Gems"
+              "title": "Maia"
             }
           },
           {
@@ -50,17 +80,45 @@
             }
           },
           {
-            "id": "e1b3da6c3ceb6120",
+            "id": "a9869a0659678d0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/Eurydice.md",
+                "file": "Notes/Enfys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eurydice"
+              "title": "Enfys"
+            }
+          },
+          {
+            "id": "f129d1f7fb4bd774",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Scorpion Gumbo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scorpion Gumbo"
+            }
+          },
+          {
+            "id": "f4f5ab7d8b1588ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Characters/Polyphemus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polyphemus"
             }
           }
         ]
@@ -95,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cath",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,45 +267,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa348f4db0d65a31",
+  "active": "6a8508449fad0944",
   "lastOpenFiles": [
-    "Notes/Organizations/Caravan/Caravan.md",
-    "Notes/Organizations/Caravan/Trader Wagon.md",
-    "Notes/Organizations/Caravan/Seal Team Silver Wagon.md",
+    "Notes/Characters/Palug.md",
+    "Notes/Characters/Desclan Tanner.md",
+    "Notes/Cattholicism.md",
+    "Notes/Characters/Roderick.md",
+    "Attachments/Desclan_and_Roderick.png",
+    "Attachments/Desclan_Face.png",
+    "Attachments/Desclan_and_Gwynt.png",
+    "Attachments/Desclan_Palug_Lvl_2.png",
+    "Sessions/2026-02-15.md",
+    "Notes/Characters/Thibedeaux Ironbayou.md",
+    "Notes/Characters/Polyphemus.md",
+    "Desclan.md",
     "Sessions/2026-02-01.md",
-    "Notes/Organizations/Caravan/Scholar Wagon Blue.md",
-    "Sessions/2025-11-23.md",
-    "Notes/Organizations/Caravan/Princess Wagon.md",
-    "Notes/Organizations/Caravan/Prince Wagon.md",
-    "Notes/Organizations/Caravan/Order of the Stones Wagon.md",
-    "Notes/Organizations/Caravan/Apollo Royal Bodyguards Wagon.md",
-    "Notes/Organizations/Caravan/Prince Apollo Wagon.md",
-    "Notes/Organizations/Crystal Gems.md",
-    "Notes/Characters/Balin ferch Balin.md",
-    "Notes/Organizations/Caravan",
-    "Notes/Organizations/Cath Clan.md",
-    "Notes/Characters/Zephyr.md",
-    "Notes/Characters/Characters.md",
-    "Notes/Characters/Eurydice.md",
-    "Attachments/S10Rec.png",
-    "Notes/Characters/Orpheus.md",
-    "Attachments/S09Rec.png",
-    "Notes/Characters/Hades.md",
-    "Notes/Characters/Cai Ap Namara.md",
-    "Notes/Characters/Hades Umbriel.md",
-    "Notes/Characters/Zeus.md",
-    "Notes/Characters/Melinoe.md",
+    "Attachments/Polyphemus.png",
+    "Notes/Scorpion Gumbo.md",
+    "Notes/Enfys.md",
+    "Attachments/Upgrade_1_Look_Palug_Headshot.png",
+    "Attachments/Upgrade_1_Look_Palug.png",
     "Notes/Characters/Petrara Umbriel.md",
+    "Notes/Characters/Gilfaethwy.md",
+    "Notes/Characters/Thalia P.md",
+    "Notes/Characters/Perses.md",
+    "Notes/Characters/Quartz.md",
+    "Notes/Mechanics/Creatures/Stargut Hydra.md",
+    "Notes/Mechanics/Creatures/Prismhydra.md",
+    "Attachments/09-17-PZO2114 Prism Hydra.webp",
+    "Notes/Mechanics/Creatures/Big Axolotl Guys.md",
+    "Attachments/Axolotl_Royal_Wagon_Hitched.png",
+    "Attachments/Stargut_Hydra.webp",
+    "Notes/Organizations/Crystal Gems.md",
+    "Notes/Locations/Daear/Fellarion/Dynasdywyll/Dynasdywyll Temple.md",
+    "Notes/Characters/Topaz.md",
+    "Notes/Locations/Daear/Fellarion/Fellarion.md",
+    "Notes/Locations/Byd Arall.md",
+    "Notes/Characters/Polyhymnia E.md",
     "Notes/Characters/Maia.md",
-    "Notes/Characters/Pleione.md",
-    "Attachments/Engaged_Dr_Zephyr.png",
-    "Attachments/Engaged_Dr._Zephyr_Closeup.png",
-    "Attachments/ClericCaravan.png",
-    "Attachments/Engaged_Dike_Deipneus_Neaera.png",
-    "Attachments/Engaged_Athena_Chloris.png",
-    "Attachments/Engaged_Cyllene.png",
-    "Attachments/Calliope_and_Oiagros.png",
-    "Attachments/CaveelfGuards_Caravan.png",
+    "Notes/Organizations/Caravan",
     "Notes/Characters/Untitled",
     "Notes/Locations/Daear/Fellarion/Dynasdywyll",
     "Templates",

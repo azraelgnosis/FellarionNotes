@@ -4,6 +4,7 @@ heritage: Cave Elf
 ---
 [[Cave Elf|Cave]] [[Elf]]
 Cleric of the [[Emerald]]
+Works at [[Dynasdywyll Temple]] Library
 
 # Relationships
 [[Polyhymnia E]], twin sister

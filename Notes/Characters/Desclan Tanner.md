@@ -7,7 +7,8 @@ aliases:
 
 [[Human]] [[Wizard]]
 
-Old
+
+~~Old~~ Deceased
 of [[The Great Academy]] in the capital
 Assigned specialization in [[Evocation]] by the bureaucracy of [[The Great Academy]] but has a passion for [[Conjuration]]
 
@@ -35,7 +36,13 @@ Assigned specialization in [[Evocation]] by the bureaucracy of [[The Great Acade
 ![[signal-2025-06-09-123325.png]]
 
 ![[signal-2025-06-09-122701.png]]
+![[Desclan_Palug_Lvl_2.png]]
+![[Desclan_and_Gwynt.png]]
 
+
+![[Desclan_Face.png]]
+
+![[Desclan_and_Roderick.png]]
 
 # Tags
 #character 

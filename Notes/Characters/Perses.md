@@ -6,7 +6,7 @@ heritage: Cave Elf
 Man-in-waiting to [[Apollo|Prince Apollo]]
 
 # Relationships
-[[Apollo]]
+[[Apollo|Prince Apollo]], cousin
 
 # Gallery
 

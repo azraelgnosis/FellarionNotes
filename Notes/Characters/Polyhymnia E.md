@@ -6,7 +6,7 @@
 
 [[Cave Elf|Cave]] [[Elf]]
 Cleric of the [[Emerald]]
-Works at [[Dynasdywyll Temple]]
+Works at [[Dynasdywyll Temple]] Library
 # Relationships
 [[Thalia P]], twin sister
 

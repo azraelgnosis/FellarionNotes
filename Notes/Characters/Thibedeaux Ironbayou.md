@@ -8,7 +8,8 @@ aliases:
 /θɪ.bə.do/
 
 Don't touch his belly
-[[Order of the Small Beans]]
+[[Cattholic]]
+[[Order of the Smol Beans]]
 
 
 # Relationships

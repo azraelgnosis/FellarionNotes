@@ -15,5 +15,9 @@ From the [[Cath Clan]] in [[Y Ddwyrain]]
 ![[Palug minus hood.png]]
 
 ![[Cavern_Elf_Look_Palug.png]]
+![[Upgrade_1_Look_Palug.png]]
+![[Upgrade_1_Look_Palug_Headshot.png]]
+
+![[Desclan_Palug_Lvl_2.png]]
 # Tags
 #character #NPC 

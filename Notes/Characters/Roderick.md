@@ -14,7 +14,7 @@ perished dramatically
 # Gallery
 ![[Young_Roderick-1.png]]
 ![[Young_Trajedie_and_Roderick-1.png]]
-
+![[Desclan_and_Roderick.png]]
 
 # Tags
 #character #NPC 
