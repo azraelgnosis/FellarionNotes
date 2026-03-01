@@ -12,14 +12,21 @@ More /dai/ than /dae/
 [[Cave Elf|Cave]] [[Elf]]
 
 # Relationships
-[[Gwynt]]
-[[Persephone]], cousin
+## Family
+[[Maia]], mother
+[[Pleione]], sister
+[[Persephone]], first cousin
+[[Hades]], first cousin-in-law?
+[[Melinoe]], first cousin once removed
+[[Dionysus]], first cousin once removed
 [[Zeus]], uncle
 [[Demeter]], aunt
 [[Melinoe]], nibling
 [[Dionysus]], nibling
-[[Maia]], Mother
-[[Pleione]], sister
+
+##
+[[Gwynt]]
+
 
 # Tags
 #character #PC 

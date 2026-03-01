@@ -8,63 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a8508449fad0944",
+            "id": "19615f1e6297a4a5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-02-15.md",
+                "file": "Sessions/2026-02-28.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-02-15"
-            }
-          },
-          {
-            "id": "abda3cac078130aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Cattholicism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cattholicism"
-            }
-          },
-          {
-            "id": "fa348f4db0d65a31",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/2026-02-01.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-02-01"
-            }
-          },
-          {
-            "id": "036382bb2fdbcdca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Characters/Maia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maia"
+              "title": "2026-02-28"
             }
           },
           {
@@ -78,50 +34,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "a9869a0659678d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Enfys.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Enfys"
-            }
-          },
-          {
-            "id": "f129d1f7fb4bd774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Scorpion Gumbo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scorpion Gumbo"
-            }
-          },
-          {
-            "id": "f4f5ab7d8b1588ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Characters/Polyphemus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Polyphemus"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cath",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,44 +182,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a8508449fad0944",
+  "active": "d5faa4beaa6c543e",
   "lastOpenFiles": [
-    "Notes/Characters/Palug.md",
-    "Notes/Characters/Desclan Tanner.md",
+    "Notes/Characters/Tisiphone2.md",
+    "Notes/Enfys.md",
+    "Notes/Smeurkey.md",
+    "Sessions/2026-02-28.md",
+    "Notes/Characters/Scylla.md",
+    "Notes/Characters/Electo.md",
+    "Notes/Characters/Megara.md",
+    "Notes/Characters/Tisiphone.md",
+    "Untitled.md",
+    "Notes/Organizations/Royal Bounty Hunting Task Force.md",
+    "Notes/Organizations/Orc Clans",
+    "Notes/Characters/AnnieLashawn.md",
     "Notes/Cattholicism.md",
-    "Notes/Characters/Roderick.md",
+    "Notes/Characters/Hyacinthus.md",
+    "Sessions/2025-11-23.md",
+    "Notes/Characters/Maia.md",
+    "Notes/Scorpion Gumbo.md",
+    "Notes/Characters/Polyphemus.md",
+    "Notes/Mechanics/Spells/Figment.md",
+    "Notes/Characters/Petrara Umbriel.md",
+    "Notes/Characters/Trajedie.md",
+    "Sessions/2026-02-15.md",
+    "Attachments/AnnieLashawn_Portrait.png",
+    "Attachments/AnnieLashawn_Lvl_4_Portrait.png",
+    "Attachments/Trajedie_Portrait.png",
+    "Attachments/Trajedie_Lvl_4.png",
+    "Notes/Characters/Pleione.md",
+    "Notes/Characters/Persephone.md",
+    "Notes/Organizations/Caravan/Godthief Wagon.md",
+    "Notes/Characters/Pepperoni Gamgee.md",
+    "Notes/Mechanics/Creatures/Elk.md",
+    "Attachments/Elk_GT_Mount.png",
+    "Attachments/Elk_GT_Mounts.png",
+    "Attachments/All_GT_Mounts.png",
     "Attachments/Desclan_and_Roderick.png",
     "Attachments/Desclan_Face.png",
     "Attachments/Desclan_and_Gwynt.png",
-    "Attachments/Desclan_Palug_Lvl_2.png",
-    "Sessions/2026-02-15.md",
-    "Notes/Characters/Thibedeaux Ironbayou.md",
-    "Notes/Characters/Polyphemus.md",
-    "Desclan.md",
-    "Sessions/2026-02-01.md",
-    "Attachments/Polyphemus.png",
-    "Notes/Scorpion Gumbo.md",
-    "Notes/Enfys.md",
-    "Attachments/Upgrade_1_Look_Palug_Headshot.png",
-    "Attachments/Upgrade_1_Look_Palug.png",
-    "Notes/Characters/Petrara Umbriel.md",
-    "Notes/Characters/Gilfaethwy.md",
-    "Notes/Characters/Thalia P.md",
-    "Notes/Characters/Perses.md",
-    "Notes/Characters/Quartz.md",
-    "Notes/Mechanics/Creatures/Stargut Hydra.md",
-    "Notes/Mechanics/Creatures/Prismhydra.md",
-    "Attachments/09-17-PZO2114 Prism Hydra.webp",
-    "Notes/Mechanics/Creatures/Big Axolotl Guys.md",
-    "Attachments/Axolotl_Royal_Wagon_Hitched.png",
-    "Attachments/Stargut_Hydra.webp",
-    "Notes/Organizations/Crystal Gems.md",
-    "Notes/Locations/Daear/Fellarion/Dynasdywyll/Dynasdywyll Temple.md",
-    "Notes/Characters/Topaz.md",
-    "Notes/Locations/Daear/Fellarion/Fellarion.md",
-    "Notes/Locations/Byd Arall.md",
-    "Notes/Characters/Polyhymnia E.md",
-    "Notes/Characters/Maia.md",
     "Notes/Organizations/Caravan",
     "Notes/Characters/Untitled",
     "Notes/Locations/Daear/Fellarion/Dynasdywyll",
@@ -313,7 +229,6 @@
     "Notes/Locations/Daear/Fellarion/Teyrnas/Y Dde",
     "Notes/Mechanics/Spells",
     "Notes/Mechanics/Actions",
-    "Notes/Mechanics/Equipment",
-    "Notes/Mechanics/Creatures"
+    "Notes/Mechanics/Equipment"
   ]
 }

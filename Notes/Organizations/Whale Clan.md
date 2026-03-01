@@ -1,3 +1,0 @@
-
-# Members
-[[Whale Clan King]]

@@ -1,3 +1,9 @@
+---
+aliases:
+  - Pepperoni
+---
+
+
 Welsh Corgi
 Companion
 Mount
