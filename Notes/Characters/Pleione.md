@@ -15,6 +15,6 @@ heritage: Cave Elf
 
 # Gallery
 ![[Maia_and_Pleione.png]]
-
+![[Petrara_and_Plione_Umbraiel_Teens.png]]
 # Tags
 #character #NPC 

@@ -9,6 +9,11 @@ heritage: Cave Elf
 [[Scylla]]
 [[Electo]]
 [[Tisiphone2]]
+[[Charybdis]]
+
+# Gallery
+![[T_Cult_Member.png]]
+![[T_Cult_Member_HS.png]]
 
 # Tags
 #character #NPC 

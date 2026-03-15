@@ -13,8 +13,12 @@ aliases:
 [[Palug]]
 [[Omi]] & [[Pepperoni Gamgee]]
 [[Gwynt]]
+[[Kal]]
 
 ## Former Members
 [[Desclan Tanner|Desclan]]
+
+# Gallery
+![[All_GT_Mounts 1.png]]
 
 # Tags

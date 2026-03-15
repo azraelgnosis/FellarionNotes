@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "19615f1e6297a4a5",
+            "id": "cf3f8b30dd4486c2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-02-28.md",
+                "file": "Sessions/2026-03-14.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-02-28"
+              "title": "2026-03-14"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,45 +181,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5faa4beaa6c543e",
+  "active": "cf3f8b30dd4486c2",
   "lastOpenFiles": [
-    "Notes/Characters/Tisiphone2.md",
-    "Notes/Enfys.md",
-    "Notes/Smeurkey.md",
-    "Sessions/2026-02-28.md",
+    "Notes/Characters/Pleione.md",
+    "Notes/Organizations/Caravan/Godthief Wagon.md",
+    "Notes/Characters/Kal.md",
+    "Notes/Characters/Coron.md",
+    "Notes/Characters/Odocoileus Cervidae.md",
     "Notes/Characters/Scylla.md",
     "Notes/Characters/Electo.md",
+    "Notes/Characters/Tisiphone2.md",
+    "Attachments/T_Cult_Member_HS.png",
+    "Attachments/T_Cult_Member.png",
+    "Notes/Characters/Charybdis.md",
     "Notes/Characters/Megara.md",
+    "Notes/Characters/Petrara Umbriel.md",
+    "Notes/Locations/Daear/Fellarion/Roumpīni.md",
+    "Sessions/2026-03-14.md",
+    "Sessions/2026-02-28.md",
+    "Notes/Locations/Daear/Fellarion/The Golden Bough.md",
+    "Attachments/Palug_Rescue_Hours.png",
+    "Attachments/Palug_Gagged.png",
+    "Attachments/Palug_Kidnapped_Front_Hours.png",
+    "Attachments/PalugKidnappedAboveHours.png",
+    "Attachments/PalugKidnappedHours.png",
+    "Attachments/Charybdis_HS.png",
+    "Attachments/T_Cult_Leader_HS.png",
+    "Attachments/T_Cult_Leader.png",
+    "Notes/Mechanics/Creatures/Cave Fisher.md",
+    "Notes/Characters/AnnieLashawn.md",
+    "Notes/Characters/Blibadoo.md",
+    "Notes/Characters/Aroura.md",
+    "Notes/Enfys.md",
+    "Notes/Smeurkey.md",
     "Notes/Characters/Tisiphone.md",
     "Untitled.md",
     "Notes/Organizations/Royal Bounty Hunting Task Force.md",
     "Notes/Organizations/Orc Clans",
-    "Notes/Characters/AnnieLashawn.md",
     "Notes/Cattholicism.md",
-    "Notes/Characters/Hyacinthus.md",
-    "Sessions/2025-11-23.md",
-    "Notes/Characters/Maia.md",
-    "Notes/Scorpion Gumbo.md",
-    "Notes/Characters/Polyphemus.md",
-    "Notes/Mechanics/Spells/Figment.md",
-    "Notes/Characters/Petrara Umbriel.md",
-    "Notes/Characters/Trajedie.md",
-    "Sessions/2026-02-15.md",
-    "Attachments/AnnieLashawn_Portrait.png",
-    "Attachments/AnnieLashawn_Lvl_4_Portrait.png",
-    "Attachments/Trajedie_Portrait.png",
-    "Attachments/Trajedie_Lvl_4.png",
-    "Notes/Characters/Pleione.md",
-    "Notes/Characters/Persephone.md",
-    "Notes/Organizations/Caravan/Godthief Wagon.md",
-    "Notes/Characters/Pepperoni Gamgee.md",
-    "Notes/Mechanics/Creatures/Elk.md",
-    "Attachments/Elk_GT_Mount.png",
-    "Attachments/Elk_GT_Mounts.png",
-    "Attachments/All_GT_Mounts.png",
-    "Attachments/Desclan_and_Roderick.png",
-    "Attachments/Desclan_Face.png",
-    "Attachments/Desclan_and_Gwynt.png",
     "Notes/Organizations/Caravan",
     "Notes/Characters/Untitled",
     "Notes/Locations/Daear/Fellarion/Dynasdywyll",

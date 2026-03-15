@@ -2,6 +2,7 @@
 class: Animist
 ancestry: Human
 ---
+
 [[Human]]
 [[Animist]]
 
