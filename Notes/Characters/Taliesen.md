@@ -1,17 +1,18 @@
 ---
 aliases:
   - Ganymede
+class: Bard
+ancestry: Orc
 ---
-
+[[Orc]] [[Bard]]
 
 # Relationships
-[[Pryderi ap Rhiannon|Mabrian]]
-[[Cwm]]
-[[Cawlwyd]]
+[[Pryderi ap Rhiannon|Mabrian]], BFF
 [[Siôn]], Uncle
-
+[[Palug]]
 
 # Gallery
+![[Portrait_of_BFFs.png]]
 ![[Screenshot_20250724-231308.png|480x960]]
 
 ![[Screenshot_20250724-231250.png]]
@@ -22,6 +23,7 @@ aliases:
 ![[Hyacinthus_and_Taliesin.png]]
 ![[Engaged_Tal.png]]
 ![[Engaged_Tal_Makeup.png]]
+![[Tal_Lvl_2.png]]
 
 # Tags
 #character #NPC 

@@ -1,3 +1,6 @@
+---
+aliases:
+---
 
 [[Cave Elf]] Religion
 

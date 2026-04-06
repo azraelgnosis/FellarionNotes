@@ -3,12 +3,12 @@ ancestry: Elf
 heritage: Cave Elf
 ---
 
-
+[[Cave Elf|Cave]] [[Elf]]
 
 
 # Relationships
-[[Dike]]
-[[Deipneus]]
+[[Dike]], Mother
+[[Deipneus]], Son
 
 # Gallery
 ![[Engaged_Dike_Deipneus_Neaera.png]]

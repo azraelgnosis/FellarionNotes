@@ -1,14 +1,16 @@
 ---
 ancestry: Orc
 ---
-
-
 /koron/
 
+
+[[Orc]]
+
 [[Ram Clan]]
+Fight-y type
 
 # Relationships
-[[Kal]], traveling companion
+[[Cal]], traveling companion
 
 # Gallery
 ![[Coron_Lvl2.png]]

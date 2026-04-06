@@ -10,7 +10,7 @@ aliases:
 
 ~~Old~~ Deceased
 of [[The Great Academy]] in the capital
-Assigned specialization in [[Evocation]] by the bureaucracy of [[The Great Academy]] but has a passion for [[Conjuration]]
+Assigned specialization in [[Evocation]] by the bureaucracy of [[The Great Academy]] but has a passion for Conjuration
 
 [[Trajedie]] and [[AnnieLashawn]] were wizardly apprentices to [[Desclan Tanner|Desclan]] alongside [[Roderick]] until some event, which [[Desclan Tanner|Desclan]] cannot recall for some reason, which resulted in [[Roderick]]'s death. Subsequently, [[Trajedie]] and [[AnnieLashawn]] have become [[Nathamuel]]'s apprentices and [[Trajedie]] has not spoken since.
 

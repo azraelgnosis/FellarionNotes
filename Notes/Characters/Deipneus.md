@@ -6,8 +6,8 @@ heritage: Cave Elf
 [[Cave Elf|Cave]] [[Elf]]
 
 # Relationships
-[[Dike]]
-[[Neaera]]
+[[Dike]], Wife
+[[Neaera]], Son
 
 # Gallery
 ![[Engaged_Dike_Deipneus_Neaera.png]]

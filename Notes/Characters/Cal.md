@@ -2,7 +2,10 @@
 aliases:
 ancestry: Human
 ---
+[[Human]]
+[[Investigator]] [[Magus]]
 
+Not Kaladin
 
 5'7"
 slight of build

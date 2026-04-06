@@ -20,6 +20,7 @@ Mabrian /mabˈri.an/
 [[Taliesen]], childhood friend
 
 # Gallery
+![[Portrait_of_BFFs.png]]
 ![[Screenshot_20250724-231308.png|480x960]]
 
 ![[Screenshot_20250724-231250.png]]

@@ -13,7 +13,7 @@ aliases:
 [[Palug]]
 [[Omi]] & [[Pepperoni Gamgee]]
 [[Gwynt]]
-[[Kal]]
+[[Cal]]
 
 ## Former Members
 [[Desclan Tanner|Desclan]]

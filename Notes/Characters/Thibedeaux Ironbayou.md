@@ -10,7 +10,7 @@ aliases:
 Don't touch his belly
 [[Cattholic]]
 [[Order of the Smol Beans]]
-
+[[Monk]]
 
 # Relationships
 

@@ -1,3 +1,8 @@
+---
+ancestry: Elf
+---
+
+/kəˈrɪbdɪs/
 
 half [[Wood Elf|Wood]] [[Elf]] / half [[Cave Elf|Cave]] [[Elf]]
 

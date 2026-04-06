@@ -1,9 +1,8 @@
 ---
 ancestry: Sprite
-heritage: 
 class: Bard
 ---
-
+[[Bard]]
 Plays the Ocarina
 
 # Relationships

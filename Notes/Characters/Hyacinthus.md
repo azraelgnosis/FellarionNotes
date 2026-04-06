@@ -1,9 +1,11 @@
 ---
 ancestry: Elf
 heritage: Cave Elf
+class: Monk
 ---
 
 [[Cave Elf|Cave]] [[Elf]]
+[[Monk]]
 
 # Relationship
 [[Apollo]]
@@ -18,6 +20,6 @@ heritage: Cave Elf
 ![[Hyacinthus.png]]
 ![[Engaged_Hyacinthus_Makeup.png]]
 ![[Engaged_Hyacinthus.png]]
-
+![[Hyacinthus_Lvl_1_Portrait.png]]
 # Tags
 #character #NPC 

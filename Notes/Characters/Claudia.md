@@ -2,9 +2,11 @@
 ancestry: Dwarf
 aliases:
   - Princess Claudia
+class: Bard
 ---
 
 [[Dwarf]]
+[[Bard]]
 
 Princess of Dwarves
 [[Princess Wagon]]

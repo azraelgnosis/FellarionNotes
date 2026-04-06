@@ -8,3 +8,5 @@ Has a tree growing underground
 # Gallery
 ![[Golden_Bough_Proprietor_and_Family.png]]
 
+# Tags
+#location 

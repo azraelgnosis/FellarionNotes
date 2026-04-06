@@ -7,3 +7,5 @@
 
 https://app.demiplane.com/nexus/pathfinder2e/creatures/prismhydra
 
+# Tags
+#creature 
