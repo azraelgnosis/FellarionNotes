@@ -4,6 +4,7 @@ aliases:
 ancestry: Elf
 heritage: Cave Elf
 ---
+[[Cave Elf|Cave]] [[Elf]]
 
 # Relationships
 [[Artemis|Princess Artemis]], spouse

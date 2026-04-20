@@ -11,7 +11,7 @@ class: Barbarian
 # Gallery
 ![[Cavern_Elf_Look_Cai_Side.png]]
 ![[Cavern_Elf_Look_Cai_Front.png]]
-
+![[Cavern_Elf_Look_Cai_Back.png]]
 ![[Wagon1Group.webp]]
 
 # Tags

@@ -1,6 +1,6 @@
 ---
-class: Animist
 ancestry: Human
+class: Animist
 ---
 
 [[Human]]
@@ -9,7 +9,7 @@ ancestry: Human
 [[Seal Team Silver Wagon]]
 
 # Gallery
-
+![[Cavern_Elf_Look_Aroura.png]]
 ![[Wagon1Group.webp]]
 # Tags
 #character #NPC 

@@ -8,6 +8,8 @@ half [[Wood Elf|Wood]] [[Elf]] / half [[Cave Elf|Cave]] [[Elf]]
 
 daughter of Innkeepers at [[The Golden Bough]]
 member of [[Topaz]] cult in [[Roumpīni]]
+lovable scamp
+[[Cal]]'s student
 
 # Relationships
 [[Odocoileus Cervidae]], mother

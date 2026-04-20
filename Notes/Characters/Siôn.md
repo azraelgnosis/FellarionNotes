@@ -2,7 +2,7 @@
 ancestry: Orc
 ---
 
-Current patriarch of [[Hedgehog Clan]].
+Current patriarch of [[Banadlfedd]].
 
 
 # Relationships

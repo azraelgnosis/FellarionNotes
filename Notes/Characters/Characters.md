@@ -4,3 +4,6 @@
 TABLE ancestry, heritage, class
 from "Notes/Characters"
 ```
+
+# Tags
+#MOC 

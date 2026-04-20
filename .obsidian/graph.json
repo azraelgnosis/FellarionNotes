@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "#MOC",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
       "query": "#character",
       "color": {
         "a": 1,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7962647759978854,
+  "scale": 0.45340501668013744,
   "close": false
 }

@@ -5,7 +5,7 @@ ancestry: Orc
 
 
 [[Orc]]
-
+[[Fighter]]
 [[Ram Clan]]
 Fight-y type
 

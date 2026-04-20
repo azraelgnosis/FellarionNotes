@@ -11,7 +11,7 @@ Innkeeper of [[The Golden Bough]]
 
 
 # Relationships
-, husband
+[[Poseiden Cervidae]], husband
 [[Charybdis]], daughter
 
 # Gallery

@@ -6,10 +6,10 @@ aliases:
   - Mabrian
   - Pryderi
 ---
-Pryderi ap Rhiannon , called Mabrian
+Pryderi ap [[Rhiannon]] , called Mabrian
 20
 
-Rhiannon \[r̥iˈan.ɔn\]
+[[Rhiannon]] \[r̥iˈan.ɔn\]
 Mabrian /mabˈri.an/
 
 [[Battle Ready]] [[Orc]]
@@ -17,7 +17,9 @@ Mabrian /mabˈri.an/
 
 # Relationships
 [[Rhiannon]], mother
+[[Mêl]], father
 [[Taliesen]], childhood friend
+[[Rhosyn]], aunt
 
 # Gallery
 ![[Portrait_of_BFFs.png]]
