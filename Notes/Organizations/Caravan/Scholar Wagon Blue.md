@@ -5,7 +5,6 @@
 [[Louie]]
 [[TwoGrassBladesScrapingTogether]]
 [[Ingvar]]
-[[Palug]]
 
 # Gallery
 

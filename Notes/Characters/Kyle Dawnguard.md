@@ -9,7 +9,7 @@ Arguably, some sort of Knight
 [[Prince Wagon]]
 Has hair transplants? Or maybe just hair dye?
 # Relationships
-[[Sir Trent]], friend, lover?
+[[Trent Tanner]], friend, lover?
 
 # Gallery
 ![[Kyle_Dawnguard.webp]]

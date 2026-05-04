@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-04-19.md",
+                "file": "Sessions/2026-05-03.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-04-19"
+              "title": "2026-05-03"
             }
           },
           {
@@ -36,54 +36,12 @@
             }
           },
           {
-            "id": "3d81ef571a3b3f20",
+            "id": "73323470ea67d036",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Organizations/Orc Clans/Rore.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rore"
-            }
-          },
-          {
-            "id": "a299879586d9c7f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Organizations/Orc Clans/Y Dde/Banadlfedd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Banadlfedd"
-            }
-          },
-          {
-            "id": "ac64903fe486fd25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Roumpīni/Roumpīni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roumpīni"
-            }
-          },
-          {
-            "id": "466ecad1076f19f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Organizations/Orc Clans/Creirfyw.md",
+                "file": "Notes/Characters/Creirfyw.md",
                 "mode": "source",
                 "source": false
               },
@@ -92,35 +50,21 @@
             }
           },
           {
-            "id": "0bbfc6fcae3d094b",
+            "id": "e5be91fefd1f6bf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Characters/Charybdis.md",
+                "file": "Notes/Organizations/Orc Clans/Orc Clans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Charybdis"
-            }
-          },
-          {
-            "id": "633f57f11baa82fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Characters/Mêl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mêl"
+              "title": "Orc Clans"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "leto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,46 +210,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "633f57f11baa82fd",
+  "active": "e5be91fefd1f6bf2",
   "lastOpenFiles": [
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Yr Ogledd/Tir Llwyth Anawfedd.md",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Yr Ogledd/Drws Sionfach.md",
-    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Roumpīni/Roumpīni.md",
-    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Dynasdywyll/Dynasdywyll.md",
-    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Roumpīni/The Golden Bough.md",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Y Ddwyrain/Llwyth Rhiannon.md",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Y Ddwyrain",
-    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Dynasdywyll/Dynasdywyll Temple.md",
-    "Sessions/2026-03-14.md",
-    "Sessions/2026-04-19.md",
-    "Notes/Characters/Charybdis.md",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Teyrnas.md",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Y Dde/Y Dde.md",
+    "Sessions/2026-05-03.md",
+    "Notes/Organizations/Orc Clans/Orc Clans.md",
+    "Notes/Characters/Creirfyw.md",
     "Notes/Organizations/Orc Clans/Creirfyw.md",
-    "Notes/Characters/Characters.md",
-    "Notes/Mechanics/Ancestries/Ancestries.md",
-    "Notes/Organizations/Orc Clans/Rore.md",
-    "Notes/Organizations/Orc Clans/Y Dde/Banadlfedd.md",
-    "Notes/Characters/Odocoileus Cervidae.md",
+    "Notes/Organizations/Caravan/Princess Wagon.md",
+    "Notes/Organizations/Caravan/Scholar Wagon Blue.md",
+    "Notes/Organizations/Caravan/Caravan.md",
     "Notes/Characters/Aroura.md",
+    "Notes/Organizations/Caravan/Prince Apollo Wagon.md",
+    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Amethystos.md",
+    "Notes/Characters/Trent Tanner.md",
+    "Notes/Characters/Eris Amethystos.md",
+    "Notes/Locations/Byd Arall.md",
+    "Notes/Locations/Sky Elves.md",
+    "Notes/Mechanics/Equipment/Dweomerweave Robe.md",
+    "Notes/Organizations/Caravan/Trader Wagon.md",
+    "Notes/Organizations/Caravan/Seal Team Silver Wagon.md",
+    "Notes/Characters/Rusty Orfevre.md",
+    "Notes/Characters/Paracanthurus Hepatus.md",
+    "Attachments/Paracanthurus_Hepatus_HS.png",
+    "Attachments/Paracanthurus_Hepatus.png",
+    "Sessions/2026-04-19.md",
+    "Notes/Organizations/Caravan/Godthief Wagon.md",
+    "Notes/Organizations/Caravan/Prince Wagon.md",
     "Notes/Organizations/Caravan/Order of the Stones Wagon.md",
-    "Notes/Characters/Asteria.md",
-    "Notes/Organizations/Orc Clans/Yr Orllewin/Eurgein.md",
-    "Notes/Characters/Cal.md",
+    "Notes/Organizations/Caravan/Apollo Royal Bodyguards Wagon.md",
+    "Attachments/CaveelfGuards_Caravan.png",
+    "Notes/Characters/Neaera.md",
+    "Notes/Characters/Chloris.md",
+    "Attachments/Eris_Amethystos_HS.png",
+    "Attachments/Eris_Amethystos.png",
+    "Attachments/Note_from_Sir_Trent_in_Code.png",
+    "Attachments/Note_from_Sir_Trent.png",
+    "Attachments/ursula.gif",
+    "Notes/Locations/Daear/Fellarion/Teyrnas/Y Ddwyrain",
     "Attachments/Cal_Portrait.png",
     "Attachments/Cal.png",
-    "Attachments/Cavern_Elf_Look_Aroura.png",
-    "Notes/Characters/Cai Ap Namara.md",
-    "Attachments/Cavern_Elf_Look_Cai_Back.png",
-    "Notes/Characters/Cassandra.md",
-    "Attachments/Cavern_Elf_Look_Cassandra.png",
-    "Sessions/2025-10-25.md",
-    "Attachments/Cavern_Elf_Look_Sterling.png",
     "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Roumpīni",
-    "Attachments/S09Rec 1.png",
-    "Attachments/S10Rec 1.png",
-    "Attachments/S01Rec.png",
-    "Attachments/S02Rec.png",
     "Notes/Locations/Daear/Fellarion/Dan y Mynydd",
     "Notes/Organizations/Orc Clans/Yr Orllewin",
     "Notes/Locations/Daear/Fellarion/Teyrnas/Yr Orllewin",

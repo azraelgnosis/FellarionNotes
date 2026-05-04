@@ -16,7 +16,7 @@ Assigned specialization in [[Evocation]] by the bureaucracy of [[The Great Acade
 
 # Relationships
 [[Roderick]], apprentice
-[[Sir Trent]], nephew
+[[Trent Tanner]], nephew
 [[Nathamuel]], rival? spurned lover?
 [[Threb]]
 [[AnnieLashawn]], former apprentice

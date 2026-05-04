@@ -26,4 +26,49 @@
 
 
 
+
+# Fighters
+## Apollo Royal Bodyguards Wagon
+[[Athena]]
+[[Dike]]
+[[Cyllene]]
+[[Eirene]]
+## GodThief Wagon
+[[Pryderi ap Rhiannon|Mabrian]]
+[[Petrara Umbriel|Petrara]]
+[[Cal]]
+[[Issa]]
+[[Gwynt]]
+[[Palug]]
+
+## Order of the Stones Wagon
+None
+## Prince Apollo Wagon
+[[Hyacinthus]]
+[[Taliesen]]
+
+## Prince Wagon
+[[King's Shadow]]
+[[Kyle Dawnguard]]
+
+## Princess Wagon
+[[Trajedie]]
+[[AnnieLashawn]]
+[[Javert|Sir Javert]]
+[[Rhedynfr]]
+
+## Scholar Wagon Blue
+None
+
+## Seal Team Silver Wagon
+[[Cai Ap Namara]]
+[[Rusty Orfevre]]
+[[Aroura]]
+[[Sterling]]
+[[Cassandra]]
+
+## Trader Wagon
+[[Cortney the Accountant|Cortney]]
+[[SharpCracklingGlass]]
+
 # Tags
