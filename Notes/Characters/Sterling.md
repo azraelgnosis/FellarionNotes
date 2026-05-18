@@ -5,6 +5,7 @@ ancestry: Human
 Crossbow expert
 
 # Gallery
+[[Seal]]
 ![[Cavern_Elf_Look_Sterling.png]]
 
 # Tags

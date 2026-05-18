@@ -11,7 +11,7 @@ aliases:
 
 # Relationships
 [[Elhenry]], father
-???, mother
+[[Annabeth]], mother
 [[Elsren]], uncle
 [[Alrick]], brother
 [[Elspeth]], sister

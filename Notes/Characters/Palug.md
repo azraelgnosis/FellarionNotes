@@ -10,6 +10,7 @@ class: Wizard
 First Orc wizard?!
 
 From the [[Cath Clan]] in [[Y Ddwyrain]]
+7'6"
 
 # Relationships
 [[Desclan Tanner|Desclan]], teacher

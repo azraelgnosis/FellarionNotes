@@ -8,7 +8,7 @@ Princess
 
 # Relationships
 [[Elhenry|King Elhenry]], Father
-, Mother
+[[Annabeth]], Mother
 [[Alrick]], brother
 [[Elrick]], brother
 

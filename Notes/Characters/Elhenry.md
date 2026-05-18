@@ -9,7 +9,7 @@ ancestry: Human
 
 
 # Relationships
-, wife
+[[Annebeth]], wife
 [[Alrick]], son
 [[Elrick]], son
 [[Elspeth]], daughter

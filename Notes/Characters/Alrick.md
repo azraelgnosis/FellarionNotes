@@ -10,7 +10,7 @@ aliases:
 
 # Relationships
 [[Elhenry]], father
-
+[[Annebeth]], mother
 [[Elrick]], brother
 [[Elspeth]], sister
 

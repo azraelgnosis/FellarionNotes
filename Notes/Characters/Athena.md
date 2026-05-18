@@ -3,9 +3,10 @@ ancestry: Elf
 heritage: Cave Elf
 ---
 [[Cave Elf|Cave]] [[Elf]]
+Single mother
 
 # Relationships
-[[Chloris]], 
+[[Chloris]], daughter
 
 # Gallery
 ![[Engaged_Athena_Chloris.png]]

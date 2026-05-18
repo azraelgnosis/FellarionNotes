@@ -20,6 +20,8 @@ Mabrian /mabˈri.an/
 [[Mêl]], father
 [[Taliesen]], childhood friend
 [[Rhosyn]], aunt
+[[Palug]]
+[[Caledfwlch]], cursed blade
 
 # Gallery
 ![[Portrait_of_BFFs.png]]

@@ -1,10 +1,26 @@
 
+[[Creiddylad]]
+[[Morwyn]]
+[[Cymidei]]
+[[Ceindrech]]
+[[Olwen]]
+[[Mederei]]
+[[Eurgein]]
+[[Henwen]]
+[[Blodeuwedd]]
+[[Essyllt]]
+[[Morrigan]]
+[[Flur]]
 
-
+#
 ## llwyth
+From Proto-Celtic *luxtus (“contents, crowd, people”). Cognate with Old Irish lucht (“contents, cargo”).
+- tribe, people
+https://en.wiktionary.org/wiki/llwyth#Welsh
 https://cy.wikipedia.org/wiki/Llwyth
+https://cy.wikipedia.org/wiki/Rhestr_o_lwythau_Celtaidd
 
-## carennydd, carennydd
+## carennydd, cerennydd
 https://welsh-dictionary.ac.uk/gpc/gpc.html?carennydd
 https://cy.wikipedia.org/wiki/Carennydd
 

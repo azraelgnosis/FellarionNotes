@@ -15,5 +15,8 @@ The Catfolk were the original people and/or the other FamFolk are uplifted famil
 
 How do we feel about people who wear cat ears and tails???
 [Wiktionary - Nekomimi](https://en.wiktionary.org/wiki/nekomimi#:~:text=From%20Japanese%20%E7%8C%AB%E8%80%B3%20(nekomimi,mimi%2C%20%E2%80%9Cear%E2%80%9D).)
+
+Le'Tyre:
+The dwarven box of ancestors ashes. Considered a mobile shrine by dwarf clans.
 # Tags
 #religion

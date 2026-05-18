@@ -16,7 +16,7 @@ black slicked back hair
 well-defined moustache and distinct soul patch goatee
 might be cute but for his abnormally intense gaze and cadence
 walks with a stiff and militaristic gait
-
+teetotaler
 # Relationships
 [[Coron]], travelling companion
 
