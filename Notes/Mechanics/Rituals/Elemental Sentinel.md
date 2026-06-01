@@ -1,5 +1,5 @@
 
-
+# Elemental Sentinel
 
 > Elemental Sentinel
 [[Ritual]] 1

@@ -15,6 +15,8 @@ One of [[Nathamuel]]'s students
 
 ![[Trajedie_Portrait.png]]
 
+![[Gwydion_entertained.png]]
+![[Trajedie_puts_on_a_show.png]]
 
 # Tags
 #character #NPC 

@@ -1,0 +1,8 @@
+
+Inn
+[[Smaragdos]]
+
+# 
+
+# Tags
+#location 

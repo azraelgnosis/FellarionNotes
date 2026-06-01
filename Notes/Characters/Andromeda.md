@@ -1,17 +1,16 @@
 
-
 [[Sky Elf|Sky]] [[Elf]]
 [[Smaragdos]]
 
 
 # Relationships
-[[Andromeda]], Mother
-[[Draco]], Father
-
+[[Draco]], husband
+[[Orion]], son
 
 # Gallery
-![[Orion.png]]
-![[Orion_HS.png]]
+![[Andromeda.png]]
+![[Andromeda_HS.png]]
+
 
 # Tags
 #character #NPC 
