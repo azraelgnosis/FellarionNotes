@@ -8,9 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "342bcc1b0b6284f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Characters/Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Characters"
+            }
+          },
+          {
             "id": "71ca9ea53eaf2765",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,7 +31,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "2026-05-31"
             }
@@ -61,6 +73,60 @@
               },
               "icon": "lucide-file",
               "title": "Portly Falcon"
+            }
+          },
+          {
+            "id": "f32ac1271a17818d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Amethystos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amethystos"
+            }
+          },
+          {
+            "id": "45a7d508b2917c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Organizations/Our Divine Daughter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Our Divine Daughter"
+            }
+          },
+          {
+            "id": "fcba8a771bfc19f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Organizations/Caravan/Apollo Royal Bodyguards Wagon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apollo Royal Bodyguards Wagon"
+            }
+          },
+          {
+            "id": "a093766f2494ef0a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/CaveelfGuards_Caravan.png"
+              },
+              "icon": "lucide-image",
+              "title": "CaveelfGuards_Caravan"
             }
           }
         ]
@@ -209,8 +275,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71ca9ea53eaf2765",
+  "active": "342bcc1b0b6284f0",
   "lastOpenFiles": [
+    "Sessions/2026-05-31.md",
+    "Notes/Characters/Orion Sáppheiros.md",
+    "Notes/Characters/Artemis Sáppheiros.md",
+    "Notes/Characters/Characters.md",
+    "Notes/Characters/Mêl.md",
+    "Notes/Characters/Mabrians Father.md",
+    "Notes/Characters/Leto.md",
+    "Sessions/2026-06-13.md",
+    "Notes/Organizations/Our Divine Daughter.md",
+    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Smaragdos/Smaragdos.md",
+    "Untitled.md",
+    "Notes/Organizations/Caravan/Apollo Royal Bodyguards Wagon.md",
+    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Amethystos.md",
+    "Attachments/CaveelfGuards_Caravan.png",
+    "Notes/Characters/Lavernica the Elder.md",
+    "Notes/Characters/Orion.md",
+    "Notes/Characters/Issa.md",
+    "Attachments/Orion_Stowaway.png",
+    "Attachments/Orion_Stowaway_HS.png",
+    "Notes/Organizations/Caravan/Caravan.md",
+    "Notes/Organizations/Caravan/Order of the Stones Wagon.md",
+    "Notes/Organizations/Caravan/Prince Apollo Wagon.md",
+    "Sessions/2026-05-17.md",
+    "Notes/Characters/Odocoileus Cervidae.md",
+    "Sessions/2026-03-14.md",
+    "Notes/Characters/Calypso.md",
     "Attachments/Palug_Prisoner_HS.png",
     "Attachments/Palug_Prisoner.png",
     "Attachments/Palug_Captured_HS.png",
@@ -221,33 +313,7 @@
     "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Smaragdos/Portly Falcon.md",
     "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Dynasdywyll/Dynasdywyll.md",
     "Notes/Characters/Andromeda.md",
-    "Notes/Characters/Orion.md",
-    "Notes/Characters/Draco.md",
-    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Smaragdos/Smaragdos.md",
-    "Notes/Mechanics/Heritages/Sky Elf.md",
-    "Attachments/Andromeda_HS 1.png",
-    "Attachments/Draco_HS.png",
-    "Attachments/Draco.png",
-    "Attachments/Andromeda_HS.png",
-    "Sessions/2026-05-31.md",
-    "Notes/Characters/Orion Sap.md",
-    "Sessions/2026-05-17.md",
-    "Notes/Mechanics/Spells/Spells.md",
-    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Smaragdos/Blooming Mushroom.md",
-    "Notes/Pirates Brine.md",
-    "Notes/Characters/Eurus.md",
-    "Notes/Characters/Calypso.md",
     "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Smaragdos",
-    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Amethystos.md",
-    "Notes/Smeurkey.md",
-    "Notes/Organizations/Caravan/Princess Wagon.md",
-    "Notes/Mechanics/Spells/Invisible Item.md",
-    "Notes/Mechanics/Rituals/Elemental Sentinel.md",
-    "Sessions/2026-05-03.md",
-    "Notes/Organizations/Orc Clans/Orc Clans.md",
-    "Notes/Characters/Paracanthurus Hepatus.md",
-    "Untitled.md",
-    "Notes/Characters/Pryderi ap Rhiannon.md",
     "Notes/Mechanics/Rituals",
     "Notes/Locations/Daear/Fellarion/Teyrnas/Y Ddwyrain",
     "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Roumpīni",

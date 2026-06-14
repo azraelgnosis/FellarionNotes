@@ -12,6 +12,9 @@
 # Gallery
 ![[Orion.png]]
 ![[Orion_HS.png]]
+![[Orion_Stowaway_HS.png]]
+![[Orion_Stowaway.png]]
+
 
 # Tags
 #character #NPC 

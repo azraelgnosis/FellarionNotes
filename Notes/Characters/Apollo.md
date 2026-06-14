@@ -10,7 +10,7 @@ Prince
 
 # Relationships
 [[Leto|Queen Leto]], mother
-[[Artemis|Princess Artemis]], sister
+[[Artemis Sáppheiros|Princess Artemis]], sister
 [[Perses]], Man-in-Waiting
 [[Claudia]], fiancee
 

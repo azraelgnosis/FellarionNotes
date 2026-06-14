@@ -1,6 +1,8 @@
 
 [[Dan y Mynydd]]
 
+Mayor? [[Calypso]]
+
 # Smaragdos
 - About 2 days travel from [[Amethystos]].
 

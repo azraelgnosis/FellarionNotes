@@ -1,4 +1,9 @@
-Navana?
+---
+aliases:
+  - Laverna
+---
+
+nicknamed Laverna
 
 Taught [[Desclan Tanner|Desclan]] about aetherial folding
 1/4 Halfling by her mother's father?

@@ -9,7 +9,7 @@ class: Ranger
 [[Ranger]]
 
 # Relationships
-[[Orion Sap|Prince Consort Orion]], spouse
+[[Orion Sáppheiros|Prince Consort Orion]], spouse
 [[Leto|Queen Leto]], mother
 [[Apollo|Prince Apollo]], brother
 

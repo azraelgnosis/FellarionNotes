@@ -7,7 +7,7 @@ heritage: Cave Elf
 [[Cave Elf|Cave]] [[Elf]]
 
 # Relationships
-[[Artemis|Princess Artemis]], spouse
+[[Artemis Sáppheiros|Princess Artemis]], spouse
 
 
 # Gallery

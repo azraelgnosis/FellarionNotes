@@ -12,7 +12,7 @@ heritage: Cave Elf
 
 # Relationships
 [[Apollo|Prince Apollo]], Son
-[[Artemis|Princess Artemis]], Daughter
+[[Artemis Sáppheiros|Princess Artemis]], Daughter
 
 # Gallery
 ![[QueenLeto.png]]

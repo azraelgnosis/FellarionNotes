@@ -8,7 +8,7 @@ Issa \[ˈi.sə]
 # 
 [[Gutsy Halfling|Gutsy]] [[Halfling]]
 [[Warpriest]] [[Cleric]]
-3'5"
+3'5" age 22
 [[Enfys]]
 
 # Tags

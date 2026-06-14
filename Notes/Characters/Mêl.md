@@ -2,10 +2,12 @@
 ancestry: Orc
 class: Oracle
 ---
+
+
 /meːl/
 
-[[Orc]] [[Oracle]]
 
+[[Orc]] [[Oracle]]
 [[Bee Clan]]
 
 #
@@ -14,5 +16,7 @@ class: Oracle
 [[Pryderi ap Rhiannon]], son
 [[Rhosyn]], sister-in-law
 
+# Gallery
+![[Mabrians_Father.png]]
 # Tags
 #character #NPC 
