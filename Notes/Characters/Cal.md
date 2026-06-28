@@ -8,6 +8,7 @@ class: Magus
 
 Not Kaladin
 
+like 23 or something
 5'7"
 slight of build
 athletic and agile

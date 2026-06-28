@@ -6,6 +6,7 @@ class: Magus
 ---
 
 [[Orc]]
+20ish
 [[Prince Wagon]]
 Prince of [[Whale Clan]]
 [[Magus]]

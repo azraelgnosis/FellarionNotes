@@ -1,3 +1,7 @@
+---
+ancestry: Elf
+heritage: Sky Elf
+---
 
 
 [[Sky Elf|Sky]] [[Elf]]

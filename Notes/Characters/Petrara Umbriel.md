@@ -4,10 +4,11 @@ heritage: Cave Elf
 aliases:
   - Dae'na
   - Petrara
+  - Rara
 ---
 Introduced as "Dae'na"
 More /dai/ than /dae/
-
+Nickname, Rara
 
 [[Cave Elf|Cave]] [[Elf]]
 

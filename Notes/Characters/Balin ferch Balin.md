@@ -5,7 +5,7 @@ aliases:
 ---
 \[ˈba.lɪn]
 [[Orc]]
-teenager
+young teenager (like 14ish)
 
 Princess of [[Whale Clan]]
 [[Princess Wagon]]

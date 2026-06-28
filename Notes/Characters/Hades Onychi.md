@@ -4,14 +4,16 @@ heritage: Cave Elf
 ---
 
 [[Cave Elf|Cave]] [[Elf]]
-
+[[Onýchi]]
 
 # Relationships
-[[Dike]], Mother
-[[Deipneus]], Father
-
+[[Dike Onychi]], wife
+[[Tethys Onychi]], daughter
 # Gallery
-![[Engaged_Dike_Deipneus_Neaera.png]]
+![[Hades_Onychi_HS.png]]
+![[Hades_Onychi.png]]
+
+
 
 
 # Tags
