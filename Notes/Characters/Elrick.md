@@ -3,7 +3,7 @@ ancestry: Human
 aliases:
   - Prince Elrick
 ---
-
+14
 
 [[Human]] Prince
 

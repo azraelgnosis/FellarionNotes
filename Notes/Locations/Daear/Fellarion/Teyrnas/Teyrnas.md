@@ -1,6 +1,8 @@
 
 [[Fellarion]]
 
+13 day weeks
+`pedairdegnos` in the Orcish tongue
 #
 [[Yr Ogledd]]
 [[Y Ddwyrain]]

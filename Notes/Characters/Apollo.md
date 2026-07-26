@@ -11,7 +11,8 @@ Prince
 # Relationships
 [[Leto|Queen Leto]], mother
 [[Artemis Sáppheiros|Princess Artemis]], sister
-[[Perses]], Man-in-Waiting
+[[Perses]], Cousin, Man-in-Waiting
+[[Hyacinthus]], lover, Man-in-Waiting
 [[Claudia]], fiancee
 
 # Gallery

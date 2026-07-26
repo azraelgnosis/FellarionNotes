@@ -3,7 +3,7 @@ ancestry: Human
 aliases:
   - Prince Alrick
 ---
-
+14
 
 [[Human]] prince
 [[Prince Wagon]]

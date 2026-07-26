@@ -6,10 +6,10 @@ heritage: Cave Elf
 [[Cave Elf|Cave]] [[Elf]]
 resides in [[Onýchi]]
 
-Achelōis
-From the Ancient Greek Ἀχελωίς (Akhelōís).
-(Classical Latin) \[a.kʰɛˈɫoː.ɪs\]
-(modern Italianate Ecclesiastical) \[a.keˈlɔː.is\]
+> Achelōis
+> From the Ancient Greek Ἀχελωίς (Akhelōís).
+> (Classical Latin) \[a.kʰɛˈɫoː.ɪs\]
+> (modern Italianate Ecclesiastical) \[a.keˈlɔː.is\]
 https://en.wiktionary.org/wiki/Achelois#Latin
 
 # Relationships
