@@ -20,5 +20,7 @@ heritage: Sky Elf
 ![[Orion_Stowaway.png]]
 
 
+![[Orion_Borrowed_Clothes.png]]
+
 # Tags
 #character #NPC 

@@ -1,6 +1,6 @@
 [[Human]] Rainbow Religion
 
-[[Issa]]
+~~[[Issa]]~~
 [[AnnieLashawn]]
 [[Trajedie]]
 

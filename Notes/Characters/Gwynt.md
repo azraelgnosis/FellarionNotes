@@ -1,6 +1,8 @@
 ---
 class: Animist
 ancestry: Orc
+aliases:
+  - Gwynt the Perceiver
 ---
 [[Orc]]
 [[Animist]]
