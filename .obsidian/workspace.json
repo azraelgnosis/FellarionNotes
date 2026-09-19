@@ -20,9 +20,8 @@
             }
           },
           {
-            "id": "1168f452328544f9",
+            "id": "f40b4128e9ac1fab",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -30,27 +29,28 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "2026-08-22"
             }
           },
           {
-            "id": "afe83c732abc3ea7",
+            "id": "d80d367054ed1149",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-08-08.md",
+                "file": "Sessions/2026-09-05.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-08-08"
+              "title": "2026-09-05"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,41 +198,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1168f452328544f9",
+  "active": "d80d367054ed1149",
   "lastOpenFiles": [
-    "Sessions/2026-08-08.md",
     "Sessions/2026-08-22.md",
+    "Sessions/2026-09-05.md",
+    "Notes/Mechanics/Ancestries/Elf.md",
+    "Notes/Language_Arboreal.md",
+    "Notes/Mechanics/Creatures/Leshy.md",
+    "Notes/Organizations/Dhaatu/Dhaatu.md",
+    "Notes/Mechanics/Creatures/Genie/Genie.md",
+    "Notes/Mechanics/Creatures/Dragon/Young Forest Dragon.md",
+    "Notes/Mechanics/Creatures/Genie/Kizidhar.md",
+    "Notes/Mechanics/Creatures/Ghoran.md",
+    "Notes/Mechanics/Creatures/Dryad.md",
+    "Notes/Mechanics/Creatures/Geniekin/Ardande.md",
+    "Notes/Characters/Petrara Umbriel.md",
+    "Notes/Mechanics/Creatures/Dragon/Ancient Forest Dragon.md",
+    "Notes/Mechanics/Creatures/Dragon/Forest Archdragon.md",
+    "Notes/Mechanics/Creatures/Dragon/Adult Forest Dragon.md",
+    "Notes/Mechanics/Creatures/Geniekin/Geniekin.md",
+    "Notes/Mechanics/Creatures/Dragon",
+    "Notes/Characters/Tisiphone.md",
+    "Notes/Mechanics/Creatures/Geniekin",
+    "Sessions/2026-08-08.md",
+    "Tools.md",
+    "Notes/Characters/Polites.md",
+    "Notes/Characters/Characters.md",
+    "Notes/Mechanics/Creatures/Genie",
+    "Notes/Organizations/Dhaatu",
     "Notes/Characters/Melpomine Peridoto.md",
     "Notes/Characters/Gwynt.md",
     "Notes/Characters/King's Shadow.md",
     "Notes/Locations/Daear/Fellarion/Dan y Mynydd/A Third City.md",
-    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Roumpīni/Roumpīni.md",
-    "Notes/Characters/Orion.md",
-    "Notes/Enfys.md",
-    "Sessions/2026-07-25.md",
-    "Sessions/2026-06-27.md",
-    "Notes/Characters/Penelope.md",
     "Attachments/Cavern_Elf_Look_Kings_Shadow.png",
     "Attachments/Kings_Shadow_Headshot.png",
-    "Notes/Organizations/Caravan/Order of the Stones Wagon.md",
-    "Notes/Characters/Melpomene.md",
-    "Notes/Characters/Jason Peridoto.md",
     "Attachments/Melpomine_Peridoto.png",
     "Attachments/Melpomine_Peridoto_HS.png",
     "Attachments/Jason_Peridoto.png",
     "Attachments/Jason_Peridoto_Hs.png",
     "Attachments/Orion_Borrowed_Clothes.png",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Teyrnas.md",
-    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Smaragdos/Smaragdos.md",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Y Dde/Y Dde.md",
-    "Notes/Organizations/Orc Clans/Orc Clans.md",
-    "Notes/Organizations/Orc Clans/Creirfyw.md",
-    "Notes/Locations/Daear/Daear.md",
-    "Sessions/2025-08-09.md",
-    "Notes/Characters/Neaera.md",
-    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Peridotos/Peridotos.md",
-    "Notes/Characters/Chloris.md",
-    "Notes/Characters/Athena.md",
     "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Peridotos",
     "Attachments/Onychi_Family.png",
     "Attachments/Tethys_Onychi.png",
@@ -241,10 +245,6 @@
     "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Onichi",
     "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Smaragdos",
     "Notes/Mechanics/Rituals",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Y Ddwyrain",
-    "Notes/Locations/Daear/Fellarion/Dan y Mynydd/Roumpīni",
-    "Notes/Locations/Daear/Fellarion/Dan y Mynydd",
-    "Notes/Organizations/Orc Clans/Yr Orllewin",
-    "Notes/Locations/Daear/Fellarion/Teyrnas/Yr Orllewin"
+    "Notes/Locations/Daear/Fellarion/Teyrnas/Y Ddwyrain"
   ]
 }
