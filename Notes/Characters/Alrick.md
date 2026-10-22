@@ -17,7 +17,7 @@ aliases:
 # Gallery
 ![[Screenshot_20250701-145925.webp]]
 
-
+![[Royals_back_up_outfits.png]]
 # Tags
 #character #NPC
 

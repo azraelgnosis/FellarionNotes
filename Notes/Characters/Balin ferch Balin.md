@@ -18,5 +18,7 @@ Princess of [[Whale Clan]]
 # Gallery
 ![[Screenshot_20250701-180359.webp]]
 
+![[Royals_back_up_outfits.png]]
+
 # Tags
 #character #NPC 

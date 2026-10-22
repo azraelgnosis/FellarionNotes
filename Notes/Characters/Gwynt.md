@@ -18,6 +18,16 @@ tall slender cloaked indistinctly
 [[Natalie]]
 [[Merifet]]
 
+```
+{
+	"name": "Gwyn",
+	"lvl": 2,
+	"spells": [
+		[],
+		["Grim Tendrils", "Concordant Choir"]
+	]
+}
+```
 # Gallery
 ![[Screenshot_20260201-183206.png]]
 

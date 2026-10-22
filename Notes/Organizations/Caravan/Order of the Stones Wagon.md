@@ -5,7 +5,7 @@
 [[Melpomene]]
 [[Thalia P]]
 [[Euterpe]]
-[[Hades2]]
+[[Hades]]
 [[Erato]]
 [[Polites]]
 

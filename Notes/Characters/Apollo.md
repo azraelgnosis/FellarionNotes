@@ -21,5 +21,7 @@ Prince
 ![[Engaged_Claudia_Apollo.png]]
 
 ![[Engaged_Claudia_Apollo_Side_R.png]]
+![[Royals_back_up_outfits.png]]
+
 # Tags
 #character #NPC 

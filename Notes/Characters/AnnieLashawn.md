@@ -24,6 +24,6 @@ Follower of the [[Enfys]] religion
 ![[AnnieLashawn_Portrait.png]]
 
 
-
+![[Icarus_taken_by_AnnieLashawn.png]]
 # Tags
 #character #NPC 

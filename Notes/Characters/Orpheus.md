@@ -14,5 +14,8 @@ missing
 # Gallery
 ![[S09Rec.png]]
 
+![[Nathamuel_Ystlum_Subject_9.png]]
+![[Nathamuel_S09_S10.png]]
+
 # Tags
 #character #NPC 
